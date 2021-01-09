@@ -1,4 +1,4 @@
 {
-    "route": "/login",
+    "route": "/",
     "serve": "/.auth/login/aad"
   }
