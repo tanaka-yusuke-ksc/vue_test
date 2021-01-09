@@ -33,7 +33,8 @@ const routes = [
   {
     path: '/gettest',
       name: 'gettest',
-    component: () => import('@/components/GetTest.vue')
+      component: caldialog
+//    component: () => import('@/components/GetTest.vue')
   }
 ]
 
