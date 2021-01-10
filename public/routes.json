@@ -1,9 +1,12 @@
 {
   "routes": [
     {
-        "route": "/*",
-        "serve": "/.auth/login/aad",
-        "allowedRoles": ["kscrole"]
+      "route": "/",
+      "allowedRoles": ["authenticated"]
+    },
+    {
+        "route": "/",
+        "serve": "/.auth/login/aad"
       }
   ]
 }
