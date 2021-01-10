@@ -3,6 +3,10 @@
     {
         "route": "/login",
         "serve": "/.auth/login/aad"
-      }
+      },
+      {
+          "route": "/dialog",
+          "serve": "/.auth/login/aad"
+        },
   ]
 }
