@@ -7,6 +7,6 @@
       {
           "route": "/dialog",
           "serve": "/.auth/login/aad"
-        },
+        }
   ]
 }
