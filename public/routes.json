@@ -12,7 +12,6 @@
   "platformErrorOverrides": [
     {
       "errorType": "Unauthenticated",
-      "statusCode": "302",
       "serve": "/login"
     }
   ]
