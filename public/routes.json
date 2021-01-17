@@ -13,6 +13,36 @@
     {
       "errorType": "NotFound",
       "serve": "/login"
+    },
+    {
+      "errorType": "Unauthenticated",
+      "statusCode": "301",
+      "serve": "/login"
+    },
+    {
+      "errorType": "Unauthorized_Unknown",
+      "statusCode": "302",
+      "serve": "/login"
+    },
+    {
+      "errorType": "Unauthorized_TooManyUsers",
+      "statusCode": "303",
+      "serve": "/login"
+    },
+    {
+      "errorType": "Unauthorized_MissingRoles",
+      "statusCode": "304",
+      "serve": "/login"
+    },
+    {
+      "errorType": "Unauthorized_InvalidInvitationLink",
+      "statusCode": "305",
+      "serve": "/login"
+    },
+    {
+      "errorType": "Unauthorized_InsufficientUserInformation",
+      "statusCode": "306",
+      "serve": "/login"
     }
   ]
 }
