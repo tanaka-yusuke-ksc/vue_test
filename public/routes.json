@@ -1,8 +1,8 @@
 {
   "routes": [
     {
-      "route": "/top",
-      "allowedRoles": ["authenticated"]
+      "route": "/",
+      "allowedRoles": ["administrator"]
     },
     {
         "route": "/login",
