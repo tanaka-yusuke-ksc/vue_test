@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lRSmXO8bq4m/md2kkBduLuOmteJr8gaDwk8/nT7PWN0N2SzajyEgRoeM89n9zJvd5yNNV7Tb97Lwr+iigB6Xng==",
+  "dgSpecHash": "43M0HHypRZKqWtEGWkPe/5muU/liNn3SIuiDfqICCHgt1mcxbaFeoyF2TaSHiEgQY9W33syvJyadgfzzc3/v8g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\36011\\source\\repos\\api\\test.csproj",
+  "projectFilePath": "C:\\Users\\36011\\source\\repos\\WebApiTest\\WebApiTest\\vue_test\\api\\test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\36011\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.4\\microsoft.aspnet.webapi.client.5.2.4.nupkg.sha512",
     "C:\\Users\\36011\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.1.0\\microsoft.aspnetcore.authentication.abstractions.2.1.0.nupkg.sha512",

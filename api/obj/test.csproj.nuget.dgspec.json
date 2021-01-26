@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\36011\\source\\repos\\api\\test.csproj": {}
+    "C:\\Users\\36011\\source\\repos\\WebApiTest\\WebApiTest\\vue_test\\api\\test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\36011\\source\\repos\\api\\test.csproj": {
+    "C:\\Users\\36011\\source\\repos\\WebApiTest\\WebApiTest\\vue_test\\api\\test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\36011\\source\\repos\\api\\test.csproj",
+        "projectUniqueName": "C:\\Users\\36011\\source\\repos\\WebApiTest\\WebApiTest\\vue_test\\api\\test.csproj",
         "projectName": "test",
-        "projectPath": "C:\\Users\\36011\\source\\repos\\api\\test.csproj",
+        "projectPath": "C:\\Users\\36011\\source\\repos\\WebApiTest\\WebApiTest\\vue_test\\api\\test.csproj",
         "packagesPath": "C:\\Users\\36011\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\36011\\source\\repos\\api\\obj\\",
+        "outputPath": "C:\\Users\\36011\\source\\repos\\WebApiTest\\WebApiTest\\vue_test\\api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
